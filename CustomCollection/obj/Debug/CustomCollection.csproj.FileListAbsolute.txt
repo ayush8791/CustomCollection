@@ -1,0 +1,6 @@
+C:\Users\Ayush_Garg\source\repos\CustomCollection\CustomCollection\obj\Debug\CustomCollection.csprojAssemblyReference.cache
+C:\Users\Ayush_Garg\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollection.exe.config
+C:\Users\Ayush_Garg\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollection.exe
+C:\Users\Ayush_Garg\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollection.pdb
+C:\Users\Ayush_Garg\source\repos\CustomCollection\CustomCollection\obj\Debug\CustomCollection.exe
+C:\Users\Ayush_Garg\source\repos\CustomCollection\CustomCollection\obj\Debug\CustomCollection.pdb
